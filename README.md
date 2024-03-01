@@ -48,4 +48,3 @@ Contributions to this repository are welcome. If you'd like to make improvements
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-You can copy and paste this content into a README.md file in your repository. Remember to replace `"your-username"` in the clone URL with your actual GitHub username.
